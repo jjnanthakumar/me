@@ -1,0 +1,47 @@
+{
+  "closed": 1,
+  "data": [
+    {
+      "id": "MDU6SXNzdWU2NjYyOTY5ODk=",
+      "closed": true,
+      "title": "SSL verification is Running - [BRIEF DESCRIPTION]",
+      "createdAt": "2020-07-27T13:30:25Z",
+      "url": "https://github.com/aws-amplify/amplify-hosting/issues/903",
+      "number": 903,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "amplify-hosting",
+        "url": "https://github.com/aws-amplify/amplify-hosting",
+        "owner": {
+          "login": "aws-amplify",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/41077760?v=4",
+          "url": "https://github.com/aws-amplify"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1Mjk3NzMxNTU=",
+      "closed": false,
+      "title": "I couldn't install face_recognition module in my PC. ",
+      "createdAt": "2019-11-28T08:52:11Z",
+      "url": "https://github.com/ageitgey/face_recognition/issues/989",
+      "number": 989,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "face_recognition",
+        "url": "https://github.com/ageitgey/face_recognition",
+        "owner": {
+          "login": "ageitgey",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/896692?u=b8d3a27a29269c36664db2c4a1caaddbdd9bbe05&v=4",
+          "url": "https://github.com/ageitgey"
+        }
+      }
+    }
+  ],
+  "open": 1,
+  "totalCount": 2
+}
