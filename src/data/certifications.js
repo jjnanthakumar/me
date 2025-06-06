@@ -4,8 +4,7 @@ export const certificationData = {
       title: "Azure Developer Associate",
       subtitle: "- Microsoft",
       logo_path: "microsoft.png",
-      certificate_link:
-        "https://learn.microsoft.com/en-us/users/piyushchouhan-0396/credentials/1ea6052dc007cc1",
+      certificate_link: "",
       alt_name: "Microsoft Certified: Azure Developer Associate",
       color_code: "#ffffff",
     },
@@ -13,8 +12,7 @@ export const certificationData = {
       title: "Azure Fundamentals",
       subtitle: "- Microsoft",
       logo_path: "microsoft.png",
-      certificate_link:
-        "https://learn.microsoft.com/en-us/users/PiyushChouhan-0396/credentials/B8A958BD54B5E85B",
+      certificate_link: "",
       alt_name: "Microsoft Certified: Azure Fundamentals",
       color_code: "#ffffff",
     },

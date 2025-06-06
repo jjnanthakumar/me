@@ -15,13 +15,13 @@ const skills = {
 
 //SEO Related settings
 const seo = {
-  title: "Piyush Chouhan's Portfolio",
+  title: "Nanthakumar's Portfolio",
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
-    title: "Piyush Chouhan Portfolio",
+    title: "Nanthakumar Portfolio",
     type: "website",
-    url: "https://piyushchouhan.netlify.app/",
+    url: "https://jjnanthakumar.github.io/",
   },
 };
 
@@ -73,7 +73,7 @@ const competitiveSites = {
       style: {
         color: "#F79F1B",
       },
-      profileLink: "https://leetcode.com/u/piyushchohan48/",
+      profileLink: "https://leetcode.com/u/jjnanthakumar/",
     },
     {
       siteName: "HackerRank",
@@ -81,7 +81,7 @@ const competitiveSites = {
       style: {
         color: "#2EC866",
       },
-      profileLink: "https://www.hackerrank.com/profile/Arrow023",
+      profileLink: "https://www.hackerrank.com/profile/jjnanthakumar",
     },
     {
       siteName: "Codechef",
@@ -98,7 +98,7 @@ const competitiveSites = {
       style: {
         color: "#323754",
       },
-      profileLink: "https://www.hackerearth.com/@Piyushchouhan",
+      profileLink: "https://www.hackerearth.com/@jjnanthakumar",
     },
   ],
 };
